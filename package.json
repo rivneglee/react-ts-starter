@@ -1,5 +1,6 @@
 {
-  "name": "empty-ts-react-project",
+  "name": "react-ts-starter",
+  "description": "Typescript based React project with eslint",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
